@@ -1,3 +1,5 @@
+
+
 # 🛡️ Keylogger Lab – Python Key Capture Demo
 
 This project demonstrates a basic keylogger written in Python using the `pynput` library. It is intended for **ethical hacking and cybersecurity education only**.
@@ -32,3 +34,7 @@ source env/bin/activate
 pip install pynput
 python keylogger.py
 
+=======
+# keylogger-lab
+ A simple Python keylogger for cybersecurity learning purposes
+>>>>>>> bb2fafa5b2df15b4dec4e81ced0685c6245bbba1
